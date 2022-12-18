@@ -19,3 +19,5 @@ git branch позволяет просмотреть ветки. В нашем �
 
 git push -u origin main позволяет запушить (отправить) ветку main на сервер origin. Тут вам, скорее всего, потребуется связать приложение и GitHub, повторно залогинившись через браузер.
 
+!Support for password authentication was removed on August 13, 2021.
+how find token: Setting -> Developer setting -> Personal access tokens -> Generete new tokon 
