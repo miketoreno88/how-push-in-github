@@ -21,3 +21,6 @@ git push -u origin main позволяет запушить (отправить)
 
 !Support for password authentication was removed on August 13, 2021.
 how find token: Setting -> Developer setting -> Personal access tokens -> Generete new tokon 
+
+-------------------------
+git push -f origin
