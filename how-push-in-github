@@ -24,3 +24,5 @@ how find token: Setting -> Developer setting -> Personal access tokens -> Genere
 
 -------------------------
 git push -f origin
+
+Списки, словари и множества в Python называются коллекции.
